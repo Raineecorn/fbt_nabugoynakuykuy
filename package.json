@@ -19,6 +19,7 @@
     "dotenv": "^8.6.0",
     "escpos": "^3.0.0-alpha.6",
     "express": "^4.21.1",
+    "flashbox": "file:",
     "jest": "^29.7.0",
     "joi": "^17.13.3",
     "jsonwebtoken": "^9.0.2",

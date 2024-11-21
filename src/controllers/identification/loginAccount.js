@@ -26,7 +26,7 @@ const loginAdmin = ({ useCaseLoginAccount, validationSchemas }) => {
         };
       }
 
-      log.info("WELCOME UNIVERSAL HATDOG: ", username);
+      console.log("WELCOME UNIVERSAL HATDOG: ", username);
       return {
         headers,
         statusCode: 200,
